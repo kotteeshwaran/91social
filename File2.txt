@@ -1,0 +1,5 @@
+This certificate is an important document, and should be kept securely .
+I've lost a file containing a lot of important documents.
+Many important historical documents were destroyed when the library was bombed.
+Please sign one copy of the document and return it to us as soon as possible.
+To open a new document, click 'File', then click 'New'.
